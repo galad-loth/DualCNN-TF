@@ -1,2 +1,2 @@
 # DualCNN-TF
-Implementation of the CVPR2018 paper: Learning Dual Convolutional Neural Networks for Low-Level Vision
+Implementation of the DualCNN model with Tensorflow(Tensorlayer).
